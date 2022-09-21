@@ -2,4 +2,4 @@
 echo "Tesing Jenkins Pipeline!"
 pwd
 ls
-python hello.py
+python3 hello.py
